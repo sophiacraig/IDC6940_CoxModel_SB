@@ -1,5 +1,5 @@
 ---
-title: "Writing a great story for data science projects "
+title: "IDC6940 Cox Model Capstone Project"
 subtitle: "This is a Report Template Quarto"
 author: "Sophia Bamman Craig (Advisor: Dr. Cohen)"
 date: '`r Sys.Date()`'
